@@ -1,0 +1,148 @@
+*
+    {
+        font-family: 'Poppins', sans-serif;
+        text-decoration: none;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .menu {
+      margin-left: 20px;
+      }
+      
+      header {
+            width: 100%;
+            height: 40px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+      }
+      .buttons {
+            display: flex;
+            width: 350px;
+            justify-content: space-around;
+            margin-right: 20px;
+      }
+      
+      .img-1
+         {
+                    width: 100%;
+                    height: 196px;
+                    display: flex;
+                    background: url(img/image-head.jpg);     
+    }
+      
+      .TechExplorer {
+        justify-content: center;
+        text-align: center;
+        width: 100%;
+        height: 100%;
+        margin-top: 15px;
+        font-size: larger;
+      }
+
+      .hr1 {
+            width: 100%;
+             border-radius: 10px;
+      }
+
+      .cards {
+            display: flex;
+            justify-content: space-around;
+      }
+
+      .imgcl {
+            border-radius: 25px;
+            text-align: center;     
+            margin-top: 20px; 
+              }
+      
+      .cardstext {
+            justify-content: space-around;
+            display: flex;
+            font-size: x-large;
+            text-align: center;
+      }
+
+      .undertext {
+            width: 900px;
+            justify-content: space-around;
+            display: flex;
+            font-size: 100%;   
+            text-align: center;
+            padding: 0px 20px 20px 20px;
+      } 
+
+      .textdiv {
+            display: flex;
+      }
+
+      .img-2 {
+        width: 100%;
+            height: 350px;
+            left: 0 auto;
+            top: 760px;
+            display: flex;
+            background: url(img/image-head.jpg); 
+            margin-top: 0;
+      }
+
+      
+      .img-3 { 
+            width: 100%;
+            height: 70%;
+            top: 175%;
+            display: flex;
+      }
+
+      .section {
+            background-color: #D9D9D9;
+            display: flex;
+            width: 100%;
+      }    
+      .cell {
+            width: 350px;
+            height: 700px;
+            padding: 40px;
+
+      }
+
+      .veja
+      
+      {
+            
+            display: flex;
+            justify-content: space-between;
+            width: 450px;
+            height: 540px;
+            margin: 105px 0px 0px 25px;
+      
+      }
+
+
+      .veja1, .veja2 {
+
+                  padding: 5px;
+      }
+
+      .footer {
+
+                  background-color: #323232;
+                  text-align: center;
+
+      }
+
+      .footext {
+
+                  color: white;
+                  margin: 0px 0px 0px 0px;
+
+      }
+
+      .footimage {
+
+                  
+                  
+      }
+   
