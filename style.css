@@ -24,7 +24,27 @@
             justify-content: space-around;
             margin-right: 20px;
       }
+
+      #b1:hover {
+            -xpedu-transform: scale(0.8);
+            -ms-transform: scale(0.8);
+            transform: scale(0.8);
+      }
       
+      #b2:hover {
+            -xpedu-transform: scale(0.8);
+            -ms-transform: scale(0.8);
+            transform: scale(0.8);
+
+      }
+
+      #b3:hover {
+
+            -xpedu-transform: scale(0.8);
+            -ms-transform: scale(0.8);
+            transform: scale(0.8); 
+      }
+
       .img-1
          {
                     width: 100%;
@@ -50,6 +70,7 @@
       .cards {
             display: flex;
             justify-content: space-around;
+            
       }
 
       .imgcl {
@@ -146,3 +167,34 @@
                   
       }
    
+
+      @media (min-width: 576px) {
+
+      }
+      #v1:hover, #v2:hover, #v3:hover, #v4:hover {
+
+            -xpedu-transform: scale(1.2);
+            -ms-transform: scale(1.2);
+            transform: scale(1.2);
+      }
+
+      #youtube:hover, #twitter:hover, #facebook:hover {
+
+            -xpedu-transform: scale(0.95);
+            -ms-transform: scale(0.95);
+            transform: scale(0.95);
+      }
+
+      #hardware:hover, #software:hover, #coding:hover {
+            -xpedu-transform: scale(1.4);
+            -ms-transform: scale(1.4);
+            transform: scale(1.4);
+      }
+
+      #text1:hover, #text2:hover, #text3:hover {
+            -xpedu-transform: scale(0.9);
+            -ms-transform: scale(0.9);
+            transform: scale(0.9);
+            
+      }
+
